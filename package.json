@@ -1,8 +1,8 @@
 {
-  "name": "test-electron-forge",
-  "productName": "test-electron-forge",
+  "name": "Arcadie Second-Born",
+  "productName": "Arcadie Second-Born",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Arcadie Second-Born",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
