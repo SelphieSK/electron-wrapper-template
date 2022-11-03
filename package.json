@@ -1,6 +1,6 @@
 {
-  "name": "Arcadie Second-Born",
-  "productName": "Arcadie Second-Born",
+  "name": "arcadie-second-born",
+  "productName": "arcadie-second-born",
   "version": "1.0.0",
   "description": "Arcadie Second-Born",
   "main": "src/index.js",
